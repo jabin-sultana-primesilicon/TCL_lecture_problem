@@ -30,4 +30,3 @@ foreach val $value {
 }
 set stddev [expr {sqrt ($SD/($length))} ]
 puts "The value of standard deviation is $stddev"
-
